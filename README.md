@@ -19,42 +19,6 @@ Once all prompts are answered, the password should be generated and displayed in
 
 N/A
 
-
-## Contributing
-
-If you find any issues or have suggestions for improving this script, please feel free to submit an issue or a pull request. Your contributions are welcome!
-
-## Credit
-
-N/A
-
-## License
-
-This script is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Acknowledgements
-
-This script was developed by Agnes Geller as a student of edX Front- End Web Development Bootcamp. Special thanks to Laura Cole instructor and Norbert Hajdu mentor for guidance and support.
-
-## Link
-
-Feel free to visit my portfolio webpage:
-https://agnesgeller.github.io/Console-Finances/
-
-
-# Console-Finances
-
-
-
-## Tasks Requirements
-
-
-
-## Installation
-
-N/A
-
-
 ## Contributing
 
 If you find any issues or have suggestions for improving this script, please feel free to submit an issue or a pull request. Your contributions are welcome!
